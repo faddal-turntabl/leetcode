@@ -48,7 +48,7 @@ class Solution:
 
         COMPLEXITY
         O(nlogn) time: outside loop with heapifying in each iteration n * logn
-        O(n) space for the max heap stones
+        O(n) space for the max heap stones (if we are not altering the original stones list)
         
         '''
         # brute force
