@@ -42,4 +42,7 @@ class Solution:
         
 
 # https://www.freecodecamp.org/news/the-python-sort-list-array-method-ascending-and-descending-explained-with-examples/
+# https://medium.com/geekculture/managing-memory-using-stack-and-heap-all-you-need-to-know-8cb0192f5234
+# https://lab.github.com/githubtraining/devops-with-github-actions
+# https://www.w3schools.com/PYTHON/python_scope.asp
         
